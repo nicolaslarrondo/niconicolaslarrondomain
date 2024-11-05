@@ -1,0 +1,50 @@
+.image-container {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.task {
+    list-style: none;
+    margin: 10px 0;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+.description {
+    display: none;
+}
+
+.produc-card {
+    border: 1px solid;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
+}
+
+.produc-card h2 {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.price {
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: lem;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
