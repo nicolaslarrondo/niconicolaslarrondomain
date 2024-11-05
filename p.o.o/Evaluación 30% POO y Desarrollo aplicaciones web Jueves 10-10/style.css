@@ -1,0 +1,95 @@
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+
+
+
+
+.numero {
+    width: 80px;
+    height: 80px;
+    background-color: gray;
+    color: white;
+    font-size: 30px;
+    margin: 2px;
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+    justify-content: center;
+}
+
+.operador{
+    width: 80px;
+    height: 80px;
+    background-color: lawngreen;
+    color: black;
+    font-size: 30px;
+    margin: 5px;
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+    justify-content: center;
+}
+.igual{
+    width: 300px;
+    height: 80px;
+    background-color: lawngreen;
+    color: black;
+    font-size: 30px;
+    margin: 2px;
+    text-align: center;
+    cursor: pointer;
+    justify-content: center;
+}
+.numeros{
+    width: 20px;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    text-align: start;
+    justify-content: center;
+    align-items: center;
+    cursor: text;
+}
+.container{
+width: auto;
+margin-top: 45%;
+border: 7px solid black;
+align-items: center;
+background-color: black;
+justify-content: center;
+text-align: center;
+}
+
+body{
+    width: auto;
+    height: auto;
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+   
+    
+}
