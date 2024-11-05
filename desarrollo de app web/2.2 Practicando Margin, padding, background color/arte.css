@@ -1,0 +1,48 @@
+
+
+body{
+    background-color: peru;
+}
+
+.capa-1{
+  left: 500px;
+  position: relative;  
+  top: 200px;
+  border: 1px solid black;
+  height: auto ;
+  width:500px ;
+  background-color: rgb(42, 140, 226);
+  text-align: center;
+}
+
+.capa-2{
+    border: 1px solid black;
+    margin: 20px;
+    height:  auto;
+    width:  auto;
+    background-color: rgb(197, 122, 24);
+    text-align: center;
+}
+
+.capa-3{
+    border: 1px solid black;
+    margin: 20px;
+    height: auto ;
+    width: auto ;
+    background-color: rgb(197, 171, 22);
+    text-align: center;
+}
+
+.capa-4{
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid black;
+    height: auto  ;
+    width: auto ;
+    background-color: aqua;
+    display: block;
+    text-align: center;
+}
+
+
+

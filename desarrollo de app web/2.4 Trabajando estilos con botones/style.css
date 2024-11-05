@@ -1,0 +1,37 @@
+
+
+/*{
+    border: 1px black solid;
+    margin: 10px;
+}*/
+
+body{
+    display: flex;
+    flex: 1;
+}
+
+.contain{
+    position: relative;
+   
+}
+
+.boton{
+   
+    border: 1px greenyellow solid;
+    color: greenyellow;
+    border-radius: 10px;
+}
+
+.otro_boton{
+    background-color: green;
+    color: white;
+    border-radius: 100%;
+    width: 20px;
+    text-align: center;
+}
+
+.boton2{
+    background-color: blue;
+    color: white;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 1);
+}

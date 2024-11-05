@@ -1,0 +1,66 @@
+
+
+
+    
+    /* styles to apply to body */
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    body {
+    
+    font-family: 'Roboto', sans-serif;
+
+    }
+    
+    .flex-container {
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+
+   
+    }
+    
+    .user-card {
+    margin: 150px;
+    border: 1px black solid;
+    border-radius: 10px;
+    overflow: hidden;
+    }
+    
+    .card-header {
+       background-color: aquamarine ;
+       border-radius: 10px 0px 0px 0px; 
+       padding: 10px;
+    }
+    
+    .card-body {
+    padding: 20px;
+    
+    }
+    
+    .card-body h1,
+    .card-body h2,
+    .card-body h3,
+    .card-body p {
+    margin: 20px 0px;
+    }
+    
+    .avatar-m {
+        position: relative;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    top: 50px;
+
+    }
+    
+    .icon-s {
+    height: 20px;
+    }
+    
+    a {
+    
+    }
